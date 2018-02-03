@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="NomAccueil">Bienvenue de l\'application de SUDOKU</string>
+    <string name="lvl1">LEVEL 1</string>
+    <string name="lvl2">LEVEL 2</string>
+    <string name="lvl3">LEVEL 3</string>
+</resources>
